@@ -1,0 +1,24 @@
+C:\Users\ngoduy9911\Desktop\VSCODE\ASPCORE\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ngoduy9911\Desktop\VSCODE\ASPCORE\bin\Debug\net5.0\appsettings.json
+C:\Users\ngoduy9911\Desktop\VSCODE\ASPCORE\bin\Debug\net5.0\ASPCORE.exe
+C:\Users\ngoduy9911\Desktop\VSCODE\ASPCORE\bin\Debug\net5.0\ASPCORE.deps.json
+C:\Users\ngoduy9911\Desktop\VSCODE\ASPCORE\bin\Debug\net5.0\ASPCORE.runtimeconfig.json
+C:\Users\ngoduy9911\Desktop\VSCODE\ASPCORE\bin\Debug\net5.0\ASPCORE.runtimeconfig.dev.json
+C:\Users\ngoduy9911\Desktop\VSCODE\ASPCORE\bin\Debug\net5.0\ASPCORE.dll
+C:\Users\ngoduy9911\Desktop\VSCODE\ASPCORE\bin\Debug\net5.0\ref\ASPCORE.dll
+C:\Users\ngoduy9911\Desktop\VSCODE\ASPCORE\bin\Debug\net5.0\ASPCORE.pdb
+C:\Users\ngoduy9911\Desktop\VSCODE\ASPCORE\obj\Debug\net5.0\ASPCORE.csproj.AssemblyReference.cache
+C:\Users\ngoduy9911\Desktop\VSCODE\ASPCORE\obj\Debug\net5.0\ASPCORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoduy9911\Desktop\VSCODE\ASPCORE\obj\Debug\net5.0\ASPCORE.AssemblyInfoInputs.cache
+C:\Users\ngoduy9911\Desktop\VSCODE\ASPCORE\obj\Debug\net5.0\ASPCORE.AssemblyInfo.cs
+C:\Users\ngoduy9911\Desktop\VSCODE\ASPCORE\obj\Debug\net5.0\ASPCORE.csproj.CoreCompileInputs.cache
+C:\Users\ngoduy9911\Desktop\VSCODE\ASPCORE\obj\Debug\net5.0\ASPCORE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ngoduy9911\Desktop\VSCODE\ASPCORE\obj\Debug\net5.0\staticwebassets\ASPCORE.StaticWebAssets.Manifest.cache
+C:\Users\ngoduy9911\Desktop\VSCODE\ASPCORE\obj\Debug\net5.0\staticwebassets\ASPCORE.StaticWebAssets.xml
+C:\Users\ngoduy9911\Desktop\VSCODE\ASPCORE\obj\Debug\net5.0\scopedcss\bundle\ASPCORE.styles.css
+C:\Users\ngoduy9911\Desktop\VSCODE\ASPCORE\obj\Debug\net5.0\ASPCORE.RazorTargetAssemblyInfo.cache
+C:\Users\ngoduy9911\Desktop\VSCODE\ASPCORE\obj\Debug\net5.0\ASPCORE.dll
+C:\Users\ngoduy9911\Desktop\VSCODE\ASPCORE\obj\Debug\net5.0\ref\ASPCORE.dll
+C:\Users\ngoduy9911\Desktop\VSCODE\ASPCORE\obj\Debug\net5.0\ASPCORE.pdb
+C:\Users\ngoduy9911\Desktop\VSCODE\ASPCORE\obj\Debug\net5.0\ASPCORE.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\.Net Core MVC Middleware\obj\Debug\net5.0\ASPCORE.pdb
